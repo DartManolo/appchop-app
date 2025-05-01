@@ -1,0 +1,1 @@
+C:\Users\52312\Documents\wamp\www\appchop\devapp\appchop\build\app\intermediates\cxx\RelWithDebInfo\5p3t14j4\obj\arm64-v8a

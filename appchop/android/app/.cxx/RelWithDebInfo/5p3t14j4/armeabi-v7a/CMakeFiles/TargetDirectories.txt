@@ -1,0 +1,2 @@
+C:/Users/52312/Documents/wamp/www/appchop/devapp/appchop/android/app/.cxx/RelWithDebInfo/5p3t14j4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/52312/Documents/wamp/www/appchop/devapp/appchop/android/app/.cxx/RelWithDebInfo/5p3t14j4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

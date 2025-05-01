@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162498288554",
+    "project_id": "appchop-c3d44",
+    "storage_bucket": "appchop-c3d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162498288554:android:6598797781131c91e729d3",
+        "android_client_info": {
+          "package_name": "com.partnerssoftdev.appchop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOqIgWv5aRs7I4dze8GTGQeltcGhYmSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
